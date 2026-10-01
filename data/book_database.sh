@@ -25,10 +25,10 @@ add_book() {
 }
 
 # list_books
-# Prints title,author,status,rating for every book in books.csv
+# Prints title,author,status,rating,series for every book in books.csv
 list_books() {
     # NR > 1 skips the header row
-    awk -F',' -v OFS=',' 'NR > 1 { print $1, $2, $4, $5 }' "$BOOKS_CSV"
+    awk -F',' -v OFS=',' 'NR > 1 { print $1, $2, $4, $5, $7 }' "$BOOKS_CSV"
 }
 
 # list_books_by_status STATUS

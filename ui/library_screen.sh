@@ -16,8 +16,8 @@ while true; do
                     stars = ""
                     for (i = 1; i <= 5; i++) stars = stars (i <= $4 ? "★" : "☆")
                 }
-                print $1, $2, $3, stars
-            }' | gum table --print --columns "Title,Author,Status,Rating" ;;
+                print $1, $2, $3, stars, $5
+            }' | gum table --print --columns "Title,Author,Status,Rating,Series" ;;
 
         "Search")
             term=$(gum input --placeholder "Title or author")
@@ -31,10 +31,12 @@ while true; do
         "Book details")
             title=$(gum input --placeholder "Exact book title")
             if row=$(bash "$WORKFLOW" details "$title"); then
-                IFS=',' read -r t author genre book_status rating link <<< "$row"
+                IFS=',' read -r t author genre book_status rating link series <<< "$row"
+                # "-" in books.csv means the book isn't part of a series
+                [[ "${series%$'\r'}" == "-" ]] && series="Not part of a series"
                 gum style --border normal --padding "1 2" \
                     "Title:  $t" "Author: $author" "Genre:  $genre" \
-                    "Status: $book_status" "Rating: $rating" "Link:   $link"
+                    "Status: $book_status" "Rating: $rating" "Series: $series" "Link:   $link"
             else
                 gum style --foreground 196 "No book found with that title."
             fi ;;
