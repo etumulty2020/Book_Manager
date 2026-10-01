@@ -1,1 +1,72 @@
-title,author,genre,status,rating,link
+title,author,genre,status,rating,link,series
+Pride and Prejudice,Jane Austen,Romance,finished,5,https://www.google.com/search?tbm=bks&q=Pride%20and%20Prejudice%20Jane%20Austen,-
+Jane Eyre,Charlotte Bronte,Gothic Fiction,want_to_read,,https://www.google.com/search?tbm=bks&q=Jane%20Eyre%20Charlotte%20Bronte,-
+Wuthering Heights,Emily Bronte,Gothic Fiction,reading,,https://www.google.com/search?tbm=bks&q=Wuthering%20Heights%20Emily%20Bronte,-
+Little Women,Louisa May Alcott,Classic Fiction,owned,,https://www.google.com/search?tbm=bks&q=Little%20Women%20Louisa%20May%20Alcott,-
+The Great Gatsby,F. Scott Fitzgerald,Classic Fiction,finished,,https://www.google.com/search?tbm=bks&q=The%20Great%20Gatsby%20F.%20Scott%20Fitzgerald,-
+To Kill a Mockingbird,Harper Lee,Classic Fiction,want_to_read,,https://www.google.com/search?tbm=bks&q=To%20Kill%20a%20Mockingbird%20Harper%20Lee,-
+1984,George Orwell,Dystopian Fiction,reading,,https://www.google.com/search?tbm=bks&q=1984%20George%20Orwell,-
+Animal Farm,George Orwell,Political Satire,owned,,https://www.google.com/search?tbm=bks&q=Animal%20Farm%20George%20Orwell,-
+Brave New World,Aldous Huxley,Dystopian Fiction,finished,,https://www.google.com/search?tbm=bks&q=Brave%20New%20World%20Aldous%20Huxley,-
+Fahrenheit 451,Ray Bradbury,Dystopian Fiction,want_to_read,,https://www.google.com/search?tbm=bks&q=Fahrenheit%20451%20Ray%20Bradbury,-
+The Hobbit,J. R. R. Tolkien,Fantasy,reading,,https://www.google.com/search?tbm=bks&q=The%20Hobbit%20J.%20R.%20R.%20Tolkien,-
+The Fellowship of the Ring,J. R. R. Tolkien,Fantasy,owned,,https://www.google.com/search?tbm=bks&q=The%20Fellowship%20of%20the%20Ring%20J.%20R.%20R.%20Tolkien,The Lord of the Rings
+A Wizard of Earthsea,Ursula K. Le Guin,Fantasy,finished,,https://www.google.com/search?tbm=bks&q=A%20Wizard%20of%20Earthsea%20Ursula%20K.%20Le%20Guin,Earthsea Cycle
+The Lion the Witch and the Wardrobe,C. S. Lewis,Fantasy,want_to_read,,https://www.google.com/search?tbm=bks&q=The%20Lion%20the%20Witch%20and%20the%20Wardrobe%20C.%20S.%20Lewis,The Chronicles of Narnia
+The Name of the Wind,Patrick Rothfuss,Fantasy,reading,,https://www.google.com/search?tbm=bks&q=The%20Name%20of%20the%20Wind%20Patrick%20Rothfuss,The Kingkiller Chronicle
+Dune,Frank Herbert,Science Fiction,finished,3,https://www.google.com/search?tbm=bks&q=Dune%20Frank%20Herbert,Dune
+Foundation,Isaac Asimov,Science Fiction,finished,,https://www.google.com/search?tbm=bks&q=Foundation%20Isaac%20Asimov,Foundation
+The Left Hand of Darkness,Ursula K. Le Guin,Science Fiction,want_to_read,,https://www.google.com/search?tbm=bks&q=The%20Left%20Hand%20of%20Darkness%20Ursula%20K.%20Le%20Guin,-
+The Martian,Andy Weir,Science Fiction,reading,,https://www.google.com/search?tbm=bks&q=The%20Martian%20Andy%20Weir,-
+Project Hail Mary,Andy Weir,Science Fiction,owned,,https://www.google.com/search?tbm=bks&q=Project%20Hail%20Mary%20Andy%20Weir,-
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction,finished,,https://www.google.com/search?tbm=bks&q=The%20Hitchhiker's%20Guide%20to%20the%20Galaxy%20Douglas%20Adams,The Hitchhiker's Guide to the Galaxy
+Neuromancer,William Gibson,Science Fiction,want_to_read,,https://www.google.com/search?tbm=bks&q=Neuromancer%20William%20Gibson,-
+Frankenstein,Mary Shelley,Gothic Fiction,reading,,https://www.google.com/search?tbm=bks&q=Frankenstein%20Mary%20Shelley,-
+And Then There Were None,Agatha Christie,Mystery,want_to_read,,https://www.google.com/search?tbm=bks&q=And%20Then%20There%20Were%20None%20Agatha%20Christie,-
+Murder on the Orient Express,Agatha Christie,Mystery,reading,,https://www.google.com/search?tbm=bks&q=Murder%20on%20the%20Orient%20Express%20Agatha%20Christie,Hercule Poirot
+The Hound of the Baskervilles,Arthur Conan Doyle,Mystery,owned,,https://www.google.com/search?tbm=bks&q=The%20Hound%20of%20the%20Baskervilles%20Arthur%20Conan%20Doyle,Sherlock Holmes
+The Big Sleep,Raymond Chandler,Mystery,finished,,https://www.google.com/search?tbm=bks&q=The%20Big%20Sleep%20Raymond%20Chandler,-
+Gone Girl,Gillian Flynn,Thriller,want_to_read,,https://www.google.com/search?tbm=bks&q=Gone%20Girl%20Gillian%20Flynn,-
+The Book Thief,Markus Zusak,Historical Fiction,reading,,https://www.google.com/search?tbm=bks&q=The%20Book%20Thief%20Markus%20Zusak,-
+All the Light We Cannot See,Anthony Doerr,Historical Fiction,owned,,https://www.google.com/search?tbm=bks&q=All%20the%20Light%20We%20Cannot%20See%20Anthony%20Doerr,-
+Beloved,Toni Morrison,Historical Fiction,finished,,https://www.google.com/search?tbm=bks&q=Beloved%20Toni%20Morrison,-
+Things Fall Apart,Chinua Achebe,Literary Fiction,want_to_read,,https://www.google.com/search?tbm=bks&q=Things%20Fall%20Apart%20Chinua%20Achebe,-
+The Kite Runner,Khaled Hosseini,Literary Fiction,reading,,https://www.google.com/search?tbm=bks&q=The%20Kite%20Runner%20Khaled%20Hosseini,-
+The Handmaid's Tale,Margaret Atwood,Dystopian Fiction,owned,,https://www.google.com/search?tbm=bks&q=The%20Handmaid's%20Tale%20Margaret%20Atwood,-
+The Road,Cormac McCarthy,Post-Apocalyptic Fiction,finished,,https://www.google.com/search?tbm=bks&q=The%20Road%20Cormac%20McCarthy,-
+Life of Pi,Yann Martel,Adventure Fiction,want_to_read,,https://www.google.com/search?tbm=bks&q=Life%20of%20Pi%20Yann%20Martel,-
+The Alchemist,Paulo Coelho,Philosophical Fiction,reading,,https://www.google.com/search?tbm=bks&q=The%20Alchemist%20Paulo%20Coelho,-
+The Little Prince,Antoine de Saint-Exupery,Fable,owned,,https://www.google.com/search?tbm=bks&q=The%20Little%20Prince%20Antoine%20de%20Saint-Exupery,-
+Educated,Tara Westover,Memoir,finished,,https://www.google.com/search?tbm=bks&q=Educated%20Tara%20Westover,-
+Becoming,Michelle Obama,Memoir,want_to_read,,https://www.google.com/search?tbm=bks&q=Becoming%20Michelle%20Obama,-
+Born a Crime,Trevor Noah,Memoir,reading,,https://www.google.com/search?tbm=bks&q=Born%20a%20Crime%20Trevor%20Noah,-
+The Diary of a Young Girl,Anne Frank,Autobiography,owned,,https://www.google.com/search?tbm=bks&q=The%20Diary%20of%20a%20Young%20Girl%20Anne%20Frank,-
+Silent Spring,Rachel Carson,Environmental Science,finished,,https://www.google.com/search?tbm=bks&q=Silent%20Spring%20Rachel%20Carson,-
+A Brief History of Time,Stephen Hawking,Science,want_to_read,,https://www.google.com/search?tbm=bks&q=A%20Brief%20History%20of%20Time%20Stephen%20Hawking,-
+The Selfish Gene,Richard Dawkins,Science,reading,,https://www.google.com/search?tbm=bks&q=The%20Selfish%20Gene%20Richard%20Dawkins,-
+The Design of Everyday Things,Don Norman,Design,owned,,https://www.google.com/search?tbm=bks&q=The%20Design%20of%20Everyday%20Things%20Don%20Norman,-
+The Pragmatic Programmer,David Thomas and Andrew Hunt,Technology,finished,,https://www.google.com/search?tbm=bks&q=The%20Pragmatic%20Programmer%20David%20Thomas%20and%20Andrew%20Hunt,-
+Designing Data-Intensive Applications,Martin Kleppmann,Technology,want_to_read,,https://www.google.com/search?tbm=bks&q=Designing%20Data-Intensive%20Applications%20Martin%20Kleppmann,-
+We The Living,Ayn Rand,Historical Fiction,want_to_read,,https://www.google.com/search?tbm=bks&q=We%20The%20Living%20Ayn%20Rand,-
+Atlas Shrugged,Ayn Rand,Science Fiction,want_to_read,,https://www.google.com/search?tbm=bks&q=Atlas%20Shrugged%20Ayn%20Rand,-
+Outlander,Diana Gabaldon,Romance,want_to_read,,https://www.google.com/search?tbm=bks&q=Outlander%20Diana%20Gabaldon,Outlander
+The Notebook,Nicholas Sparks,Romance,finished,5,https://www.google.com/search?tbm=bks&q=The%20Notebook%20Nicholas%20Sparks,The Notebook
+Me Before You,Jojo Moyes,Romance,want_to_read,,https://www.google.com/search?tbm=bks&q=Me%20Before%20You%20Jojo%20Moyes,-
+The Hating Game,Sally Thorne,Romance,want_to_read,,https://www.google.com/search?tbm=bks&q=The%20Hating%20Game%20Sally%20Thorne,-
+Beach Read,Emily Henry,Romance,want_to_read,,https://www.google.com/search?tbm=bks&q=Beach%20Read%20Emily%20Henry,-
+People We Meet on Vacation,Emily Henry,Romance,want_to_read,,https://www.google.com/search?tbm=bks&q=People%20We%20Meet%20on%20Vacation%20Emily%20Henry,-
+Book Lovers,Emily Henry,Romance,want_to_read,,https://www.google.com/search?tbm=bks&q=Book%20Lovers%20Emily%20Henry,-
+The Kiss Quotient,Helen Hoang,Romance,want_to_read,,https://www.google.com/search?tbm=bks&q=The%20Kiss%20Quotient%20Helen%20Hoang,-
+It Ends with Us,Colleen Hoover,Romance,want_to_read,,https://www.google.com/search?tbm=bks&q=It%20Ends%20with%20Us%20Colleen%20Hoover,It Ends with Us
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Romance,want_to_read,,https://www.google.com/search?tbm=bks&q=The%20Seven%20Husbands%20of%20Evelyn%20Hugo%20Taylor%20Jenkins%20Reid,-
+Normal People,Sally Rooney,Romance,want_to_read,,https://www.google.com/search?tbm=bks&q=Normal%20People%20Sally%20Rooney,-
+The Time Traveler's Wife,Audrey Niffenegger,Romance,want_to_read,,https://www.google.com/search?tbm=bks&q=The%20Time%20Traveler's%20Wife%20Audrey%20Niffenegger,-
+The Duke and I,Julia Quinn,Romance,want_to_read,,https://www.google.com/search?tbm=bks&q=The%20Duke%20and%20I%20Julia%20Quinn,Bridgerton
+Persuasion,Jane Austen,Romance,finished,5,https://www.google.com/search?tbm=bks&q=Persuasion%20Jane%20Austen,-
+Emma,Jane Austen,Romance,finished,5,https://www.google.com/search?tbm=bks&q=Emma%20Jane%20Austen,-
+North and South,Elizabeth Gaskell,Romance,want_to_read,,https://www.google.com/search?tbm=bks&q=North%20and%20South%20Elizabeth%20Gaskell,-
+The Flatshare,Beth O'Leary,Romance,want_to_read,,https://www.google.com/search?tbm=bks&q=The%20Flatshare%20Beth%20O'Leary,-
+The Spanish Love Deception,Elena Armas,Romance,want_to_read,,https://www.google.com/search?tbm=bks&q=The%20Spanish%20Love%20Deception%20Elena%20Armas,Love Deception
+The Love Hypothesis,Ali Hazelwood,Romance,want_to_read,,https://www.google.com/search?tbm=bks&q=The%20Love%20Hypothesis%20Ali%20Hazelwood,-
+The Rosie Project,Graeme Simsion,Romance,want_to_read,,https://www.google.com/search?tbm=bks&q=The%20Rosie%20Project%20Graeme%20Simsion,-
+Unbroken,Laura Hillenbrand,Unknown,want_to_read,,https://www.google.com/search?tbm=bks&q=Unbroken%20Laura%20Hillenbrand,-
